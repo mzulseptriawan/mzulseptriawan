@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mzulseptriawan
-- 👀 I’m interested in Learning Language Programming
-- 🌱 I’m currently learning Python first:)
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, PHP
 - 💞️ I’m looking to collaborate on Myself and I
 - 📫 How to reach me Contact me on Telegram or Gmail
 
